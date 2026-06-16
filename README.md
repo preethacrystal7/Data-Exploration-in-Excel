@@ -7,44 +7,44 @@ The purpose of this project is to perform basic exploration and analysis using E
 
 RAW DATA
 
-Product ID	Product Name	Brand Name	Price ($)	Quantity	Category	
-28-JAN-US	Laptop	Dell	1000	30	Electronics	
-15-FEB-US	Sneakers	Nike	80	15	Fashion	
-03-MAR-US	Coffee Maker	Keurig	130	40	Kitchen	
-11-APR-US	Smartphone	Samsung	900	25	Electronics	
-22-MAY-US	Backpack	North Face	70	20	Outdoor	
-07-JUN-UK	Headphones	Sony	200	45	Electronics	
-19-JUL-UK	T-shirt	Adidas	30	5	Fashion	
-23-AUG-UK	Blender	Ninja	90	35	Kitchen	
-05-SEP-UK	Tablet	Apple	500	50	Electronics	
-14-OCT-UK	Hiking Boots	Timberland	130	10	Outdoor	
-17-JUN-IN	Laptop	HP	950	25	Electronics	
-25-NOV-AU	Sneakers	Adidas	90	40	Fashion	
-08-DEC-DE	Coffee Maker	Nespresso	120	35	Kitchen	
-18-FEB-CA	Smartwatch	Fitbit	150	15	Electronics	
-16-APR-ES	Headphones	Bose	250	20	Electronics	
-21-AUG-CA	Laptop Bag	Samsonite	50	35	Accessories	
-20-AUG-CN	Smartwatch	Huawei	160	15	Electronics	
-27-JAN-IT	Laptop	Asus	980	10	Electronics	
-01-MAR-UK	Sunglasses	Oakley	150	15	Fashion	
-14-AUG-US	Camping Tent	Coleman	200	10	Outdoor	
-14-MAY-RU	Camera	Nikon	700	50	Electronics	
-09-JAN-CA	Microwave	Panasonic	80	20	Kitchen	
-19-JUL-BR	Fitness Tracker	Xiaomi	150	30	Electronics	
-21-AUG-CA	Laptop Bag	Samsonite	50	35	Accessories	
-29-SEP-CA	Smartphone	Google	800	45	Electronics	
-03-JUN-CA	Sunglasses	Ray-Ban	130	25	Fashion	
-11-JUL-CA	Blender	Vitamix	400	40	Kitchen	
-16-APR-ES	Headphones	Bose	230	20	Electronics	
-07-MAR-CA	Dress	Zara	60	30	Fashion	
-13-APR-CA	Toaster	Hamilton	40	10	Kitchen	
-24-MAY-CA	Fitness Tracker	Garmin	130	5	Electronics	
-02-DEC-CA	Jeans	Levi's	50	50	Fashion	
-17-JUN-IN	Laptop	HP	950	25	Electronics	
-09-JUL-FR	Watch	Casio	100	20	Accessories	
-						
-						
-						
+
+Product ID	Product Name	Brand Name	Price ($)	Quantity	Category
+28-JAN-US	Laptop	Dell	1000	30	Electronics
+15-FEB-US	Sneakers	Nike	80	15	Fashion
+03-MAR-US	Coffee Maker	Keurig	130	40	Kitchen
+11-APR-US	Smartphone	Samsung	900	25	Electronics
+22-MAY-US	Backpack	North Face	70	20	Outdoor
+07-JUN-UK	Headphones	Sony	200	45	Electronics
+19-JUL-UK	T-shirt	Adidas	30	5	Fashion
+23-AUG-UK	Blender	Ninja	90	35	Kitchen
+05-SEP-UK	Tablet	Apple	500	50	Electronics
+14-OCT-UK	Hiking Boots	Timberland	130	10	Outdoor
+17-JUN-IN	Laptop	HP	950	25	Electronics
+25-NOV-AU	Sneakers	Adidas	90	40	Fashion
+08-DEC-DE	Coffee Maker	Nespresso	120	35	Kitchen
+18-FEB-CA	Smartwatch	Fitbit	150	15	Electronics
+16-APR-ES	Headphones	Bose	250	20	Electronics
+21-AUG-CA	Laptop Bag	Samsonite	50	35	Accessories
+20-AUG-CN	Smartwatch	Huawei	160	15	Electronics
+27-JAN-IT	Laptop	Asus	980	10	Electronics
+01-MAR-UK	Sunglasses	Oakley	150	15	Fashion
+14-AUG-US	Camping Tent	Coleman	200	10	Outdoor
+14-MAY-RU	Camera	Nikon	700	50	Electronics
+09-JAN-CA	Microwave	Panasonic	80	20	Kitchen
+19-JUL-BR	Fitness Tracker	Xiaomi	150	30	Electronics
+21-AUG-CA	Laptop Bag	Samsonite	50	35	Accessories
+29-SEP-CA	Smartphone	Google	800	45	Electronics
+03-JUN-CA	Sunglasses	Ray-Ban	130	25	Fashion
+11-JUL-CA	Blender	Vitamix	400	40	Kitchen
+16-APR-ES	Headphones	Bose	230	20	Electronics
+07-MAR-CA	Dress	Zara	60	30	Fashion
+13-APR-CA	Toaster	Hamilton	40	10	Kitchen
+24-MAY-CA	Fitness Tracker	Garmin	130	5	Electronics
+02-DEC-CA	Jeans	Levi's	50	50	Fashion
+17-JUN-IN	Laptop	HP	950	25	Electronics
+09-JUL-FR	Watch	Casio	100	20	Accessories
+<img width="698" height="911" alt="image" src="https://github.com/user-attachments/assets/027bd3ad-ca3a-4a77-85ff-b34d492ec6b9" />
+				
 						
 						
 						
