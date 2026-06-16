@@ -1,12 +1,11 @@
-ASSIGNMENT- 1
+**ASSIGNMENT- 1**
 
 # Data-Exploration-in- MS Excel
 It is an based on EXCEL product in Data Analysis.
 This dataset has produt details such as Product ID, Product Name, Brand Name, Price, Quantity.
 The purpose of this project is to perform basic exploration and analysis using Excel formulas and functions. It helps in understanding product categories, pricing, quantities and brand information through simple spreadsheet operations.
 
-RAW DATA
-
+**RAW DATA**
 
 Product ID	Product Name	Brand Name	Price ($)	Quantity	Category
 28-JAN-US	Laptop	Dell	1000	30	Electronics
@@ -46,7 +45,11 @@ Product ID	Product Name	Brand Name	Price ($)	Quantity	Category
 <img width="698" height="911" alt="image" src="https://github.com/user-attachments/assets/027bd3ad-ca3a-4a77-85ff-b34d492ec6b9" />
 				
 						
-						
+**TASKS**
+
+**BASIC DATA EXPLORATION**
+
+1.Sum,Count,Average.
 						
 						
 						
