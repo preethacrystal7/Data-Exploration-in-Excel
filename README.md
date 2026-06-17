@@ -15571,55 +15571,7 @@ Total									34
 													
 													
 													
-Product ID	Day	Country Code	Month	Product Name	Brand Name	Price ($)	Price Range      	Quantity	Category				
-28-JAN-US	28	US	JAN	Laptop	Dell	₹1,000.00 	High price	30	Electronics				
-15-FEB-US	15	US	FEB	Sneakers	Nike	₹80.00 	High price	15	Fashion		1.Sum,Count,Average		4.Conditional Functions - SUMIFand COUNTIF
-03-MAR-US	03	US	MAR	Coffee Maker	Keurig	₹130.00 	Standard price	40	Kitchen				
-11-APR-US	11	US	APR	Smartphone	Samsung	₹900.00 	Standard price	25	Electronics		Sum		SumIf function
-22-MAY-US	22	US	MAY	Backpack	North Face	₹70.00 	High price	20	Outdoor		Total Price		8050
-07-JUN-UK	07	UK	JUN	Headphones	Sony	₹200.00 	Standard price	45	Electronics		10100		
-19-JUL-UK	19	UK	JUL	T-shirt	Adidas	₹30.00 	Standard price	5	Fashion				CountIF function
-23-AUG-UK	23	UK	AUG	Blender	Ninja	₹90.00 	Standard price	35	Kitchen		CountA		11
-05-SEP-UK	05	UK	SEP	Tablet	Apple	₹500.00 	Standard price	50	Electronics		34		
-14-OCT-UK	14	UK	OCT	Hiking Boots	Timberland	₹130.00 	Standard price	10	Outdoor				5.Text Formatting - LEFT,RIGHT,MID
-17-JUN-IN	17	IN	JUN	Laptop	HP	₹950.00 	Standard price	25	Electronics		Average		
-25-NOV-AU	25	AU	NOV	Sneakers	Adidas	₹90.00 	High price	40	Fashion		297.0588235		LEFT
-28-JAN-US	28	US	JAN	Coffee Maker	Nespresso	₹120.00 	Standard price	35	Kitchen				28
-18-FEB-CA	18	CA	FEB	Smartwatch	Fitbit	₹150.00 	Standard price	15	Electronics		2.Minimum and Maximum Values		
-16-APR-ES	16	ES	APR	Headphones	Bose	₹250.00 	Standard price	20	Electronics				RIGHT
-21-AUG-CA	21	CA	AUG	Laptop Bag	Samsonite	₹50.00 	Standard price	35	Accessories		Min		US
-20-AUG-CN	20	CN	AUG	Smartwatch	Huawei	₹160.00 	Standard price	15	Electronics		30		
-27-JAN-IT	27	IT	JAN	Laptop	Asus	₹980.00 	Standard price	10	Electronics				MID
-01-MAR-UK	01	UK	MAR	Sunglasses	Oakley	₹150.00 	High price	15	Fashion		Max		JAN
-14-AUG-US	14	US	AUG	Camping Tent	Coleman	₹200.00 	Standard price	10	Outdoor		1000		
-14-MAY-RU	14	RU	MAY	Camera	Nikon	₹700.00 	Standard price	50	Electronics				
-09-JAN-CA	09	CA	JAN	Microwave	Panasonic	₹80.00 	High price	20	Kitchen		3.Logical Function IF		
-19-JUL-BR	19	BR	JUL	Fitness Tracker	Xiaomi	₹150.00 	Standard price	30	Electronics				
-21-AUG-CA	21	CA	AUG	Laptop Bag	Samsonite	₹50.00 	Standard price	35	Accessories		If		
-29-SEP-CA	29	CA	SEP	Smartphone	Google	₹800.00 	Standard price	45	Electronics		Price Range		
-03-JUN-CA	03	CA	JUN	Sunglasses	Ray-Ban	₹130.00 	High price	25	Fashion		High price		
-11-JUL-CA	11	CA	JUL	Blender	Vitamix	₹400.00 	Standard price	40	Kitchen				
-16-APR-ES	16	ES	APR	Headphones	Bose	₹230.00 	Standard price	20	Electronics				
-07-MAR-CA	07	CA	MAR	Dress	Zara	₹60.00 	Standard price	30	Fashion				
-13-APR-CA	13	CA	APR	Toaster	Hamilton	₹40.00 	Standard price	10	Kitchen				
-24-MAY-CA	24	CA	MAY	Fitness Tracker	Garmin	₹130.00 	Standard price	5	Electronics				
-02-DEC-CA	02	CA	DEC	Jeans	Levi's	₹50.00 	Standard price	50	Fashion				
-17-JUN-IN	17	IN	JUN	Laptop	HP	₹950.00 	Standard price	25	Electronics				
-09-JUL-FR	09	FR	JUL	Watch	Casio	₹100.00 	High price	20	Accessories				
-Total									34				
-													
-													
-													
-													
-													
-													
-													
-													
-													
-													
-													
-													
-													
+									
 													
 													
 													
@@ -18485,54 +18437,7 @@ Total									34
 													
 													
 													
-Product ID	Day	Country Code	Month	Product Name	Brand Name	Price ($)	Price Range      	Quantity	Category				
-28-JAN-US	28	US	JAN	Laptop	Dell	₹1,000.00 	High price	30	Electronics				
-15-FEB-US	15	US	FEB	Sneakers	Nike	₹80.00 	High price	15	Fashion		1.Sum,Count,Average		4.Conditional Functions - SUMIFand COUNTIF
-03-MAR-US	03	US	MAR	Coffee Maker	Keurig	₹130.00 	Standard price	40	Kitchen				
-11-APR-US	11	US	APR	Smartphone	Samsung	₹900.00 	Standard price	25	Electronics		Sum		SumIf function
-22-MAY-US	22	US	MAY	Backpack	North Face	₹70.00 	High price	20	Outdoor		Total Price		8050
-07-JUN-UK	07	UK	JUN	Headphones	Sony	₹200.00 	Standard price	45	Electronics		10100		
-19-JUL-UK	19	UK	JUL	T-shirt	Adidas	₹30.00 	Standard price	5	Fashion				CountIF function
-23-AUG-UK	23	UK	AUG	Blender	Ninja	₹90.00 	Standard price	35	Kitchen		CountA		11
-05-SEP-UK	05	UK	SEP	Tablet	Apple	₹500.00 	Standard price	50	Electronics		34		
-14-OCT-UK	14	UK	OCT	Hiking Boots	Timberland	₹130.00 	Standard price	10	Outdoor				5.Text Formatting - LEFT,RIGHT,MID
-17-JUN-IN	17	IN	JUN	Laptop	HP	₹950.00 	Standard price	25	Electronics		Average		
-25-NOV-AU	25	AU	NOV	Sneakers	Adidas	₹90.00 	High price	40	Fashion		297.0588235		LEFT
-28-JAN-US	28	US	JAN	Coffee Maker	Nespresso	₹120.00 	Standard price	35	Kitchen				28
-18-FEB-CA	18	CA	FEB	Smartwatch	Fitbit	₹150.00 	Standard price	15	Electronics		2.Minimum and Maximum Values		
-16-APR-ES	16	ES	APR	Headphones	Bose	₹250.00 	Standard price	20	Electronics				RIGHT
-21-AUG-CA	21	CA	AUG	Laptop Bag	Samsonite	₹50.00 	Standard price	35	Accessories		Min		US
-20-AUG-CN	20	CN	AUG	Smartwatch	Huawei	₹160.00 	Standard price	15	Electronics		30		
-27-JAN-IT	27	IT	JAN	Laptop	Asus	₹980.00 	Standard price	10	Electronics				MID
-01-MAR-UK	01	UK	MAR	Sunglasses	Oakley	₹150.00 	High price	15	Fashion		Max		JAN
-14-AUG-US	14	US	AUG	Camping Tent	Coleman	₹200.00 	Standard price	10	Outdoor		1000		
-14-MAY-RU	14	RU	MAY	Camera	Nikon	₹700.00 	Standard price	50	Electronics				
-09-JAN-CA	09	CA	JAN	Microwave	Panasonic	₹80.00 	High price	20	Kitchen		3.Logical Function IF		
-19-JUL-BR	19	BR	JUL	Fitness Tracker	Xiaomi	₹150.00 	Standard price	30	Electronics				
-21-AUG-CA	21	CA	AUG	Laptop Bag	Samsonite	₹50.00 	Standard price	35	Accessories		If		
-29-SEP-CA	29	CA	SEP	Smartphone	Google	₹800.00 	Standard price	45	Electronics		Price Range		
-03-JUN-CA	03	CA	JUN	Sunglasses	Ray-Ban	₹130.00 	High price	25	Fashion		High price		
-11-JUL-CA	11	CA	JUL	Blender	Vitamix	₹400.00 	Standard price	40	Kitchen				
-16-APR-ES	16	ES	APR	Headphones	Bose	₹230.00 	Standard price	20	Electronics				
-07-MAR-CA	07	CA	MAR	Dress	Zara	₹60.00 	Standard price	30	Fashion				
-13-APR-CA	13	CA	APR	Toaster	Hamilton	₹40.00 	Standard price	10	Kitchen				
-24-MAY-CA	24	CA	MAY	Fitness Tracker	Garmin	₹130.00 	Standard price	5	Electronics				
-02-DEC-CA	02	CA	DEC	Jeans	Levi's	₹50.00 	Standard price	50	Fashion				
-17-JUN-IN	17	IN	JUN	Laptop	HP	₹950.00 	Standard price	25	Electronics				
-09-JUL-FR	09	FR	JUL	Watch	Casio	₹100.00 	High price	20	Accessories				
-Total									34				
-													
-													
-													
-													
-													
-													
-													
-													
-													
-													
-													
-													
+					
 													
 													
 													
@@ -20441,53 +20346,7 @@ Total									34
 													
 													
 													
-Product ID	Day	Country Code	Month	Product Name	Brand Name	Price ($)	Price Range      	Quantity	Category				
-28-JAN-US	28	US	JAN	Laptop	Dell	₹1,000.00 	High price	30	Electronics				
-15-FEB-US	15	US	FEB	Sneakers	Nike	₹80.00 	High price	15	Fashion		1.Sum,Count,Average		4.Conditional Functions - SUMIFand COUNTIF
-03-MAR-US	03	US	MAR	Coffee Maker	Keurig	₹130.00 	Standard price	40	Kitchen				
-11-APR-US	11	US	APR	Smartphone	Samsung	₹900.00 	Standard price	25	Electronics		Sum		SumIf function
-22-MAY-US	22	US	MAY	Backpack	North Face	₹70.00 	High price	20	Outdoor		Total Price		8050
-07-JUN-UK	07	UK	JUN	Headphones	Sony	₹200.00 	Standard price	45	Electronics		10100		
-19-JUL-UK	19	UK	JUL	T-shirt	Adidas	₹30.00 	Standard price	5	Fashion				CountIF function
-23-AUG-UK	23	UK	AUG	Blender	Ninja	₹90.00 	Standard price	35	Kitchen		CountA		11
-05-SEP-UK	05	UK	SEP	Tablet	Apple	₹500.00 	Standard price	50	Electronics		34		
-14-OCT-UK	14	UK	OCT	Hiking Boots	Timberland	₹130.00 	Standard price	10	Outdoor				5.Text Formatting - LEFT,RIGHT,MID
-17-JUN-IN	17	IN	JUN	Laptop	HP	₹950.00 	Standard price	25	Electronics		Average		
-25-NOV-AU	25	AU	NOV	Sneakers	Adidas	₹90.00 	High price	40	Fashion		297.0588235		LEFT
-28-JAN-US	28	US	JAN	Coffee Maker	Nespresso	₹120.00 	Standard price	35	Kitchen				28
-18-FEB-CA	18	CA	FEB	Smartwatch	Fitbit	₹150.00 	Standard price	15	Electronics		2.Minimum and Maximum Values		
-16-APR-ES	16	ES	APR	Headphones	Bose	₹250.00 	Standard price	20	Electronics				RIGHT
-21-AUG-CA	21	CA	AUG	Laptop Bag	Samsonite	₹50.00 	Standard price	35	Accessories		Min		US
-20-AUG-CN	20	CN	AUG	Smartwatch	Huawei	₹160.00 	Standard price	15	Electronics		30		
-27-JAN-IT	27	IT	JAN	Laptop	Asus	₹980.00 	Standard price	10	Electronics				MID
-01-MAR-UK	01	UK	MAR	Sunglasses	Oakley	₹150.00 	High price	15	Fashion		Max		JAN
-14-AUG-US	14	US	AUG	Camping Tent	Coleman	₹200.00 	Standard price	10	Outdoor		1000		
-14-MAY-RU	14	RU	MAY	Camera	Nikon	₹700.00 	Standard price	50	Electronics				
-09-JAN-CA	09	CA	JAN	Microwave	Panasonic	₹80.00 	High price	20	Kitchen		3.Logical Function IF		
-19-JUL-BR	19	BR	JUL	Fitness Tracker	Xiaomi	₹150.00 	Standard price	30	Electronics				
-21-AUG-CA	21	CA	AUG	Laptop Bag	Samsonite	₹50.00 	Standard price	35	Accessories		If		
-29-SEP-CA	29	CA	SEP	Smartphone	Google	₹800.00 	Standard price	45	Electronics		Price Range		
-03-JUN-CA	03	CA	JUN	Sunglasses	Ray-Ban	₹130.00 	High price	25	Fashion		High price		
-11-JUL-CA	11	CA	JUL	Blender	Vitamix	₹400.00 	Standard price	40	Kitchen				
-16-APR-ES	16	ES	APR	Headphones	Bose	₹230.00 	Standard price	20	Electronics				
-07-MAR-CA	07	CA	MAR	Dress	Zara	₹60.00 	Standard price	30	Fashion				
-13-APR-CA	13	CA	APR	Toaster	Hamilton	₹40.00 	Standard price	10	Kitchen				
-24-MAY-CA	24	CA	MAY	Fitness Tracker	Garmin	₹130.00 	Standard price	5	Electronics				
-02-DEC-CA	02	CA	DEC	Jeans	Levi's	₹50.00 	Standard price	50	Fashion				
-17-JUN-IN	17	IN	JUN	Laptop	HP	₹950.00 	Standard price	25	Electronics				
-09-JUL-FR	09	FR	JUL	Watch	Casio	₹100.00 	High price	20	Accessories				
-Total									34				
-													
-													
-													
-													
-													
-													
-													
-													
-													
-													
-													
+							
 													
 													
 													
@@ -22394,42 +22253,7 @@ Total									34
 													
 													
 													
-Product ID	Day	Country Code	Month	Product Name	Brand Name	Price ($)	Price Range      	Quantity	Category				
-28-JAN-US	28	US	JAN	Laptop	Dell	₹1,000.00 	High price	30	Electronics				
-15-FEB-US	15	US	FEB	Sneakers	Nike	₹80.00 	High price	15	Fashion		1.Sum,Count,Average		4.Conditional Functions - SUMIFand COUNTIF
-03-MAR-US	03	US	MAR	Coffee Maker	Keurig	₹130.00 	Standard price	40	Kitchen				
-11-APR-US	11	US	APR	Smartphone	Samsung	₹900.00 	Standard price	25	Electronics		Sum		SumIf function
-22-MAY-US	22	US	MAY	Backpack	North Face	₹70.00 	High price	20	Outdoor		Total Price		8050
-07-JUN-UK	07	UK	JUN	Headphones	Sony	₹200.00 	Standard price	45	Electronics		10100		
-19-JUL-UK	19	UK	JUL	T-shirt	Adidas	₹30.00 	Standard price	5	Fashion				CountIF function
-23-AUG-UK	23	UK	AUG	Blender	Ninja	₹90.00 	Standard price	35	Kitchen		CountA		11
-05-SEP-UK	05	UK	SEP	Tablet	Apple	₹500.00 	Standard price	50	Electronics		34		
-14-OCT-UK	14	UK	OCT	Hiking Boots	Timberland	₹130.00 	Standard price	10	Outdoor				5.Text Formatting - LEFT,RIGHT,MID
-17-JUN-IN	17	IN	JUN	Laptop	HP	₹950.00 	Standard price	25	Electronics		Average		
-25-NOV-AU	25	AU	NOV	Sneakers	Adidas	₹90.00 	High price	40	Fashion		297.0588235		LEFT
-28-JAN-US	28	US	JAN	Coffee Maker	Nespresso	₹120.00 	Standard price	35	Kitchen				28
-18-FEB-CA	18	CA	FEB	Smartwatch	Fitbit	₹150.00 	Standard price	15	Electronics		2.Minimum and Maximum Values		
-16-APR-ES	16	ES	APR	Headphones	Bose	₹250.00 	Standard price	20	Electronics				RIGHT
-21-AUG-CA	21	CA	AUG	Laptop Bag	Samsonite	₹50.00 	Standard price	35	Accessories		Min		US
-20-AUG-CN	20	CN	AUG	Smartwatch	Huawei	₹160.00 	Standard price	15	Electronics		30		
-27-JAN-IT	27	IT	JAN	Laptop	Asus	₹980.00 	Standard price	10	Electronics				MID
-01-MAR-UK	01	UK	MAR	Sunglasses	Oakley	₹150.00 	High price	15	Fashion		Max		JAN
-14-AUG-US	14	US	AUG	Camping Tent	Coleman	₹200.00 	Standard price	10	Outdoor		1000		
-14-MAY-RU	14	RU	MAY	Camera	Nikon	₹700.00 	Standard price	50	Electronics				
-09-JAN-CA	09	CA	JAN	Microwave	Panasonic	₹80.00 	High price	20	Kitchen		3.Logical Function IF		
-19-JUL-BR	19	BR	JUL	Fitness Tracker	Xiaomi	₹150.00 	Standard price	30	Electronics				
-21-AUG-CA	21	CA	AUG	Laptop Bag	Samsonite	₹50.00 	Standard price	35	Accessories		If		
-29-SEP-CA	29	CA	SEP	Smartphone	Google	₹800.00 	Standard price	45	Electronics		Price Range		
-03-JUN-CA	03	CA	JUN	Sunglasses	Ray-Ban	₹130.00 	High price	25	Fashion		High price		
-11-JUL-CA	11	CA	JUL	Blender	Vitamix	₹400.00 	Standard price	40	Kitchen				
-16-APR-ES	16	ES	APR	Headphones	Bose	₹230.00 	Standard price	20	Electronics				
-07-MAR-CA	07	CA	MAR	Dress	Zara	₹60.00 	Standard price	30	Fashion				
-13-APR-CA	13	CA	APR	Toaster	Hamilton	₹40.00 	Standard price	10	Kitchen				
-24-MAY-CA	24	CA	MAY	Fitness Tracker	Garmin	₹130.00 	Standard price	5	Electronics				
-02-DEC-CA	02	CA	DEC	Jeans	Levi's	₹50.00 	Standard price	50	Fashion				
-17-JUN-IN	17	IN	JUN	Laptop	HP	₹950.00 	Standard price	25	Electronics				
-09-JUL-FR	09	FR	JUL	Watch	Casio	₹100.00 	High price	20	Accessories				
-Total									34				
+										
 													
 													
 													
@@ -23385,64 +23209,7 @@ Total									34
 													
 													
 													
-													
-													
-													
-													
-													
-													
-													
-													
-													
-<img width="2418" height="937" alt="image" src="https://github.com/user-attachments/assets/16c64509-c559-4552-965e-33f556ad69fe" />
-<img width="2418" height="937" alt="image" src="https://github.com/user-attachments/assets/fa9bdc89-b0de-4e71-8ef0-6be0959c3588" />
-<img width="2418" height="937" alt="image" src="https://github.com/user-attachments/assets/19144e3b-167d-46f0-9113-5b46f1c7b9a2" />
-<img width="2418" height="937" alt="image" src="https://github.com/user-attachments/assets/1a3d2b55-b852-4574-8abc-387a7394bbc7" />
-<img width="2418" height="937" alt="image" src="https://github.com/user-attachments/assets/b48d2259-9ef4-4ae5-8e52-5960770c3bc6" />
-<img width="2418" height="937" alt="image" src="https://github.com/user-attachments/assets/ec35d338-0770-43ec-8c3e-a7a7cc0e3857" />
-<img width="2418" height="937" alt="image" src="https://github.com/user-attachments/assets/106e3b2b-e06a-43f5-9845-c134dae3c789" />
-<img width="2418" height="937" alt="image" src="https://github.com/user-attachments/assets/04e50e92-0ad9-46db-97b1-5cb420855e15" />
-<img width="2418" height="937" alt="image" src="https://github.com/user-attachments/assets/4ebf914d-8657-4e4c-a8ef-5dc80b1dab78" />
-<img width="2418" height="937" alt="image" src="https://github.com/user-attachments/assets/caa0e6d3-9352-4d21-9563-5b9815db9df1" />
-<img width="2418" height="937" alt="image" src="https://github.com/user-attachments/assets/de8c2196-648b-4bd5-b47b-1369b8b9c1b9" />
-<img width="2418" height="937" alt="image" src="https://github.com/user-attachments/assets/b27d45e3-de48-44bb-b10f-8194c6fd0634" />
-<img width="2418" height="937" alt="image" src="https://github.com/user-attachments/assets/8c82163d-9ca2-4c05-98fc-e8376a51ce7f" />
-<img width="2418" height="937" alt="image" src="https://github.com/user-attachments/assets/3fe012d8-188a-41c5-8036-0113079a2d0d" />
-<img width="2418" height="937" alt="image" src="https://github.com/user-attachments/assets/351d8bf0-10fa-40ae-9654-99e68be8108b" />
-<img width="2418" height="937" alt="image" src="https://github.com/user-attachments/assets/8367f4dc-6a87-4e4a-98c2-e120dd5b1a19" />
-<img width="2418" height="937" alt="image" src="https://github.com/user-attachments/assets/8c470a57-78d2-4118-910d-c8a52028c05b" />
-<img width="2418" height="937" alt="image" src="https://github.com/user-attachments/assets/647a9f41-7593-4d0f-adce-3078f3c9333b" />
-<img width="2418" height="937" alt="image" src="https://github.com/user-attachments/assets/910d2cef-a21a-4e3b-945a-d7c238b854ac" />
-<img width="2418" height="937" alt="image" src="https://github.com/user-attachments/assets/28f57b8a-58fc-4869-8d1c-6ead13e47034" />
-<img width="2418" height="937" alt="image" src="https://github.com/user-attachments/assets/e0eb159b-29e6-4361-b5b5-2ff66192609d" />
-<img width="2418" height="937" alt="image" src="https://github.com/user-attachments/assets/fbce0119-77ba-400f-845e-171baa29234a" />
-<img width="2418" height="937" alt="image" src="https://github.com/user-attachments/assets/ca46766f-0756-4b84-a710-6f77c40b1f70" />
-<img width="2418" height="937" alt="image" src="https://github.com/user-attachments/assets/2356191a-cd54-4037-9be2-f3d20effc2e4" />
-<img width="2418" height="937" alt="image" src="https://github.com/user-attachments/assets/685cff10-7489-45e6-a07e-b99a80c89f3a" />
-<img width="2418" height="937" alt="image" src="https://github.com/user-attachments/assets/64690d49-f648-45cb-afae-48bb42ac4837" />
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
+	
 						
 						
 						
