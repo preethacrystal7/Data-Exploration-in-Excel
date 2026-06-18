@@ -49,8 +49,53 @@ Product ID	Product Name	Brand Name	Price ($)	Quantity	Category
 
 **BASIC DATA EXPLORATION**
 
-1.Sum,Count,Average.
-						
+*1.Sum,Count,Average.*
+Sum()
+Purpose          :
+Applied Formula  :
+Result           :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 						
 c	Day	Country Code	Month	Product Name	Brand Name	Price ($)	Price Range      	Quantity	Category				
 28-JAN-US	28	US	JAN	Laptop	Dell	₹1,000.00 	High price	30	Electronics				
