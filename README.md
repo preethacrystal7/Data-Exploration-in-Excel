@@ -109,7 +109,7 @@ Purpose          : Extract Month from Product ID
 Applied Formula  : =MID(A2,4,3)
 Result           : JAN
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 						
 c	Day	Country Code	Month	Product Name	Brand Name	Price ($)	Price Range      	Quantity	Category				
