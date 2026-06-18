@@ -50,51 +50,66 @@ Product ID	Product Name	Brand Name	Price ($)	Quantity	Category
 **BASIC DATA EXPLORATION**
 
 *1.Sum,Count,Average.*
-Sum()
-Purpose          :
-Applied Formula  :
-Result           :
+~ Sum()
+Purpose          : Calculate the total price of all products.
+Applied Formula  : =Sum(E2:E35)
+Result           : 10,100
 
+~ CountA()
+Purpose          : Count total number of products.
+Applied Formula  : =COUNTA(C2:C35)
+Result           : 34
 
+~Average()
+Purpose          : Find the average product price
+Applied Formula  : =AVERAGE(E2:E35)
+Result           : 297.058235
 
+*2.MINIMUM AND MAXIMUM FUNCTIONS*
+~ MIN()
+Purpose          : Find the minimum product price
+Applied Formula  : =MIN(E2:E35)
+Result           : 30
 
+~ MAX()
+Purpose          : Find the maximum product price
+Applied Formula  : =MAX(E2:E35)
+Result           : 100
 
+*3.LOGICAL FUNCTION*
+~ IF()
+Purpose          : Classify products as High Price or Standard Price
+Applied Formula  : =IF(E1>500,"High Price","Standard Price")
+Result           : High Price
 
+*4.CONDITIONAL FUNCTIONS*
+~ SUMIF()
+Purpose          : To calculate the total price of the products in the Electronics category
+Applied Formula  : =SUMIF(H1:H35,"ELECTRONICS",E1:E35)
+Result           : 8050
 
+~ COUNTIF()
+Purpose          : To determine the number of products with a price less than $100 
+Applied Formula  : =COUNTIF(E1:E35,"<100")
+Result           : 11
 
+*5.TEXT FORMATTING - LEFT,RIGHT,MID*
+~ LEFT()
+Purpose          : Extract Day from Product ID
+Applied Formula  : =LEFT(A2,2)
+Result           : 28
 
+~ RIGHT()
+Purpose          : Extract Country from Product ID
+Applied Formula  : =RIGHT(A2,2)
+Result           : US
 
+~ MID()
+Purpose          : Extract Month from Product ID
+Applied Formula  : =MID(A2,4,3)
+Result           : JAN
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 						
 c	Day	Country Code	Month	Product Name	Brand Name	Price ($)	Price Range      	Quantity	Category				
@@ -138,7 +153,7 @@ Total									34
 <img width="2418" height="8763" alt="image" src="https://github.com/user-attachments/assets/fc62c412-53e3-4f05-b02a-795c795d58b0" />
 						
 **Conclusion**						
-						
+		This project helped in understanding Excel formulas. It has improved Formatting skills and Analysing datas through the usage of Microsoft Excel.				
 						
 
 
